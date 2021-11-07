@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @giatoai159.
-- 👀 I’m interested in game designer.
+- 👀 I’m interested in game design, web dev.
 - 🌱 I’m currently learning C++, C#, Python, Javascript.
 - 📫 How to reach me: here.
 
